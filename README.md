@@ -1,4 +1,4 @@
-# Broadband-customer-churn-prediction-
+# Broadband-customer-churn-prediction
 The solution analyses customer characteristics to predict which customers are more likely to leave the broadbandcompany.
 ## Product overview
 Customer churn refers to the loss of existing clients or customers. This solution identifies Broadband customers who are more likely to close their account and leave the company. During the training stage, the solution automatically conducts feature interaction on the training data and selects a subset of features based on feature importance. It then trains multiple models and identifies the best performing model. This model is then selected for prediction on new data.
