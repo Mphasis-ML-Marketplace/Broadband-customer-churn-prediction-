@@ -1,0 +1,10 @@
+image,line_stat,bill_cycl,serv_type,serv_code,tenure,contract_month,ce_expiry,secured_revenue,bandwidth,term_reas_code,term_reas_desc,complaint_cnt,with_phone_service,effc_strt_date_year,effc_strt_date_month,effc_strt_date_day,effc_end_date_year,effc_end_date_month,effc_end_date_day
+201801,AC,1,BBS,PF100FSN,53,24,-6,3950,100M (FTTO),,,0,N,2017,8,21,2019,8,20
+201801,AC,1,BBS,VAXMXMFSXX,198,36,-22,1356,10M,,,0,N,2015,3,28,2018,3,27
+201801,AC,1,BBS,VS030F6N,199,27,-23,1550,30M,,,1,N,2015,12,24,2018,3,23
+201801,AC,1,BBS,VS100FSN,198,24,21,390,100M,,,0,N,2019,1,11,2021,10,31
+201801,AC,1,BBS,VS100DUN,3,24,21,390,100M,,,0,N,2019,11,13,2021,12,11
+201801,AC,1,BBS,ES100FSR,198,24,14,532,100M,,,0,N,2019,3,31,2021,3,30
+201801,AC,1,BBS,ES100DUN,9,24,20,532,100M,,,0,N,2019,10,26,2021,10,25
+201801,AC,1,BBS,ES100FSN,198,28,5,528,100M,,,0,Y,2018,3,19,2020,7,18
+201801,AC,1,BBS,ES100DUR,90,28,5,528,100M,,,0,Y,2018,3,19,2020,7,18
